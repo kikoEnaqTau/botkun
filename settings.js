@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283171382342'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283171382342'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283171382342' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Sumanto' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Xontoloyo' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'XNLT' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'gaPunyaChannelYouTube.kak'
+global.ig = 'gaPunyaInstagram.kak'
+global.mygc = 'https://chat.whatsapp.com/LAHu9shQYSJ66RSiNhuCV6'
+global.myweb = 'https://awogawog.000webhostapp.com'
+global.email = 'obos.dora@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '0831 7138 2342' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Save Yah Kakk:)' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 5,
 }
 
 //—————「 Set Image 」—————//
@@ -62,7 +62,7 @@ global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/77d4a554d86f309132c74.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
@@ -77,7 +77,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mai ubah atau nggak, note : tanda ' gausah di hapus!
-global.sp = '⭔'
+global.sp = '>'
 
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
